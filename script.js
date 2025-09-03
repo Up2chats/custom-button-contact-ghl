@@ -3,7 +3,7 @@
   "use strict";
 
   // ================== Config ==================
-  const TARGET_LOCATION = "VnNG56gjYeT9Hp7TCbdy"; // <-- SOLO esta location
+  const TARGET_LOCATION = ""; // <-- SOLO esta location
   const BTN_ATTR = "data-ghl-headerbtn";
   const ENDPOINT = null; // p.ej. "https://tu-api.com/endpoint"
 
